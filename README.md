@@ -37,3 +37,9 @@ src="https://img.shields.io/twitter/follow/NatedotV2?logo=twitter&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/natedotv2"><img src="https://github-readme-stats.vercel.app/api?username=natedotv2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="natedotv2's GitHub stats" /></a><a href="http://www.github.com/natedotv2"><img src="https://activity-graph.herokuapp.com/graph?username=natedotv2&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/natedotv2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natedotv2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=natedotv2&column=7&theme=onedark" />
+</div>
+<br />
