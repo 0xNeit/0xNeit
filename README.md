@@ -9,6 +9,9 @@ I am a full stack Web3 developer. I build Decentralized applications using moder
 * ✉️  You can send me an email at [silentpitcher@gmail.com](mailto:silentpitcher@gmail.com)
 
 
+![](https://komarev.com/ghpvc/?username=natedotv2&color=yellow)
+
+
 <a href="https://www.twitter.com/NatedotV2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NatedotV2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/natedotv2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/natedotv2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
